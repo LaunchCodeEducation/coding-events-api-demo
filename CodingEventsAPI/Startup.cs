@@ -48,10 +48,10 @@ namespace CodingEventsAPI {
       app.UseSwagger();
       app.UseSwaggerUI(
         options => {
-          options.RoutePrefix = ""; // root path of the server
+          options.RoutePrefix = "10.0.0.192:5001"; // root path of the server
           options.SwaggerEndpoint(
             "/swagger/v1/swagger.json",
-            "Patrick's Coding Events API Documentation"
+            "Ricky's Coding Events API Documentation"
           );
         }
       );
