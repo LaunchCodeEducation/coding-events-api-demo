@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{DB051B39-347A-486D-BADC-F02ACCC0977B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CodingEventsAPI/appsettings.json">
+    <Files>
+      <File FileName="CodingEventsAPI/appsettings.json" Line="10" Column="34" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="coding-events-api" expanded="True">
+            <Node name="CodingEventsAPI" expanded="True">
+              <Node name="appsettings.json" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.CodingEventsAPI PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
